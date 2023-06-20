@@ -20,23 +20,23 @@ I have experience working with the following technologies:
 - Bootstrap
 - React
 
-## Projects
+# Projects
 
-ere are some noteworthy projects I have worked on:
+Here are some noteworthy projects I have worked on:
 
-### Project Name: SolarSystem
+## Project Name: SolarSystem
 
 Technologies used: JavaScript, three.js
 Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
 
-### Project Name: HomeBound
+## Project Name: HomeBound
 
 Technologies used: Flutter
 Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
 
 Feel free to explore my repositories to see more of my work.
 
-## Get in Touch
+# Get in Touch
 
 📧 Email: patryko5@onet.pl
 📧 Email: lludwiko5@gmail.com
