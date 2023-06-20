@@ -27,16 +27,13 @@ Here are some noteworthy projects I have worked on:
 
 ### 💾 Project Name: SolarSystem 💻
 
-Technologies used: JavaScript, three.js
-
-Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
+- Technologies used: HTML, JavaScript, three.js
+- Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
 
 ### 💾 Project Name: HomeBound 📱
 
-Technologies used: Flutter
-
-Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
-
+- Technologies used: Flutter
+- Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
 
 Feel free to explore my repositories to see more of my work.
 
