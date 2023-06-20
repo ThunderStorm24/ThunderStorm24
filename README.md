@@ -24,12 +24,12 @@ I have experience working with the following technologies:
 
 ere are some noteworthy projects I have worked on:
 
-### Project Name: [Brief description]
+### Project Name: SolarSystem
 
-Technologies used: [List of technologies]
-Repository: [Link to the GitHub repository]
+Technologies used: JavaScript
+Repository: [[Link to the GitHub repository](https://github.com/ThunderStorm24/Solar_System)]
 
-### Project Name: [Brief description]
+### Project Name: HomeBound
 
 Technologies used: [List of technologies]
 Repository: [Link to the GitHub repository]
