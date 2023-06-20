@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me on mail, phone, university
 
-## 💻 Skills and Technologies
+# 💻 Skills and Technologies
 
 I have experience working with the following technologies:
 
@@ -20,7 +20,7 @@ I have experience working with the following technologies:
 - Bootstrap
 - React
 
-## 📁 Projects
+# 📁 Projects
 
 Here are some noteworthy projects I have worked on:
 
@@ -39,7 +39,7 @@ Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
 
 Feel free to explore my repositories to see more of my work.
 
-## 📞 Get in Touch 
+# 📞 Get in Touch 
 
 📧 Email: patryko5@onet.pl
 
