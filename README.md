@@ -42,7 +42,9 @@ Feel free to explore my repositories to see more of my work.
 # Get in Touch
 
 📧 Email: patryko5@onet.pl
+
 📧 Email: lludwiko5@gmail.com
+
 
 I'm always excited to connect with like-minded individuals and collaborate on interesting projects. So, don't hesitate to reach out to me.
 
