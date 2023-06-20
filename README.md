@@ -12,8 +12,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 I have experience working with the following technologies:
 
 - JavaScript
-- Java
 - PHP
+- SQL
+- Java
 - HTML
 - Flutter
 - Laravel
