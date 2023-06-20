@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @ThunderStorm24
+# 👋 Hi, I’m @ThunderStorm24
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
@@ -24,19 +24,19 @@ I have experience working with the following technologies:
 
 ere are some noteworthy projects I have worked on:
 
-# Project Name: [Brief description]
+### Project Name: [Brief description]
 
 Technologies used: [List of technologies]
 Repository: [Link to the GitHub repository]
 
-# Project Name: [Brief description]
+### Project Name: [Brief description]
 
 Technologies used: [List of technologies]
 Repository: [Link to the GitHub repository]
 
 Feel free to explore my repositories to see more of my work.
 
-Get in Touch
+## Get in Touch
 
 📧 Email: patryko5@onet.pl
 📧 Email: lludwiko5@gmail.com
