@@ -24,12 +24,12 @@ I have experience working with the following technologies:
 
 Here are some noteworthy projects I have worked on:
 
-## Project Name: SolarSystem
+### Project Name: SolarSystem
 
 Technologies used: JavaScript, three.js
 Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
 
-## Project Name: HomeBound
+### Project Name: HomeBound
 
 Technologies used: Flutter
 Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
