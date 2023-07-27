@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a little bit about me:
 
 - 👀 I’m interested in ASG, programming, playing, create videos
-- 🌱 I’m currently learning programmingHi, I'm ThunderStorm24! 👋
+- 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me on mail
 
