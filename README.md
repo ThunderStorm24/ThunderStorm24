@@ -28,6 +28,7 @@ Here are some noteworthy projects I have worked on:
 ### 💾 Project Name: SolarSystem 💻
 
 - Technologies used: HTML, JavaScript, three.js
+- Live Demo: [SolarSystem](https://thunderstorm24.github.io/Solar_System)
 - Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
 
 ### 💾 Project Name: HomeBound 📱
