@@ -33,7 +33,7 @@ I have experience working with the following technologies:
 
 ---
 
-### 💼 MiniDesk
+### 🖥️ MiniDesk
 - **Description:** Minimalistic task management web app  
 - **Technologies:** React, Bootstrap  
 - **Live Demo:** [MiniDesk](https://thunderstorm24.github.io/MiniDesk)  
