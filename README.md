@@ -2,24 +2,24 @@
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-- 👀 I’m interested in ASG, programming, playing, create videos
+- 👀 I’m interested in ASG, programming, playing games, create videos
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me on mail
+- 📫 How to reach me? on mail!
 
 # 💻 Skills and Technologies
 
 I have experience working with the following technologies:
 
-- JavaScript
-- PHP
-- SQL
-- Java
-- HTML
-- Flutter
-- Laravel
-- Bootstrap
-- React
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
 
 # 📁 Projects
 
