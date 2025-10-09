@@ -7,7 +7,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me? on mail!
 
-# 💻 Skills and Technologies
+## 💻 Skills and Technologies
 
 I have experience working with the following technologies:
 
@@ -23,29 +23,58 @@ I have experience working with the following technologies:
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
+## 🚀 Noteworthy Projects
 
-# 📁 Projects
+### 🌐 Portfolio Site
+- **Description:** Personal developer portfolio website  
+- **Technologies:** HTML, CSS, JavaScript  
+- **Live Demo:** [Portfolio](https://thunderstorm24.github.io)  
+- **Repository:** [GitHub](https://github.com/ThunderStorm24/ThunderStorm24.github.io)
 
-Here are some noteworthy projects I have worked on:
+---
 
-### 💾 Project Name: SolarSystem 💻
+### 💼 MiniDesk
+- **Description:** Minimalistic task management web app  
+- **Technologies:** React, Bootstrap  
+- **Live Demo:** [MiniDesk](https://thunderstorm24.github.io/MiniDesk)  
+- **Repository:** [GitHub](https://github.com/ThunderStorm24/MiniDesk)
 
-- Technologies used: HTML, JavaScript, three.js
-- Live Demo: [SolarSystem](https://thunderstorm24.github.io/Solar_System)
-- Repository: [SolarSystem](https://github.com/ThunderStorm24/Solar_System)
+---
 
-### 💾 Project Name: HomeBound 📱
+### 🍕 Helpfull Pizzeria
+- **Description:** Voice recognition–based app
+- **Technologies:** PHP, Laravel, SQL  
+- **Repository:** [GitHub](https://github.com/ThunderStorm24/Helpfull_Pizzeria)
 
-- Technologies used: Flutter
-- Repository: [HomeBound](https://github.com/ThunderStorm24/HomeBound)
+---
 
-Feel free to explore my repositories to see more of my work.
+### 🌌 Solar System
+- **Description:** 3D interactive model of the Solar System  
+- **Technologies:** HTML, JavaScript, Three.js  
+- **Live Demo:** [SolarSystem](https://thunderstorm24.github.io/Solar_System)  
+- **Repository:** [GitHub](https://github.com/ThunderStorm24/Solar_System)
 
-# 📞 Get in Touch 
+---
 
-📧 Email: patryko5@onet.pl
+### 🏠 HomeBound
+- **Description:** Mobile app that sends a notification when you are near your home  
+- **Technologies:** Flutter  
+- **Repository:** [GitHub](https://github.com/ThunderStorm24/HomeBound)
 
-📧 Email: lludwiko5@gmail.com
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThunderStorm24&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThunderStorm24&theme=tokyonight)
+
+---
+
+## 📞 Get in Touch 
+
+📧 **patryko5@onet.pl**  
+
+📧 **lludwiko5@gmail.com**
 
 
 I'm always excited to connect with like-minded individuals and collaborate on interesting projects. So, don't hesitate to reach out to me.
