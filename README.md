@@ -63,13 +63,6 @@ I have experience working with the following technologies:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThunderStorm24&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThunderStorm24&theme=tokyonight)
-
----
-
 ## 📞 Get in Touch 
 
 📧 **patryko5@onet.pl**  
