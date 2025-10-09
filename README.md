@@ -11,9 +11,18 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 I have experience working with the following technologies:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,mysql,java,html,flutter,laravel,bootstrap,react" />
-</p>
+![JavaScript](https://skillicons.dev/icons?i=js)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![React](https://skillicons.dev/icons?i=nodejs)
+![PHP](https://skillicons.dev/icons?i=php)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Java](https://skillicons.dev/icons?i=java)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
 
 # 📁 Projects
 
