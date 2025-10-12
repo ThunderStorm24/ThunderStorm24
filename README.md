@@ -28,13 +28,12 @@ I have experience working with the following technologies:
 
 ### 🌐 Portfolio Site
 **Description:** Personal developer portfolio website  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 **Live Demo:** [Portfolio](https://thunderstorm24.github.io)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/ThunderStorm24.github.io)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 
 ---
 
@@ -43,14 +42,15 @@ I have experience working with the following technologies:
 **Live Demo:** [MiniDesk](https://thunderstorm24.github.io/MiniDesk)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/MiniDesk)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
 ### 🍕 Helpfull Pizzeria
 **Description:** Voice recognition–based app  
+**Repository:** [GitHub](https://github.com/ThunderStorm24/Helpful_Pizzeria)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
@@ -58,30 +58,26 @@ I have experience working with the following technologies:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Repository:** [GitHub](https://github.com/ThunderStorm24/Helpful_Pizzeria)
-
 ---
 
 ### 🌌 Solar System
 **Description:** 3D interactive model of the Solar System  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 **Live Demo:** [SolarSystem](https://thunderstorm24.github.io/Solar_System)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/Solar_System)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
 
 ### 🏠 HomeBound
 **Description:** Mobile app that sends a notification when you are near your home  
+**Repository:** [GitHub](https://github.com/ThunderStorm24/HomeBound)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-
-**Repository:** [GitHub](https://github.com/ThunderStorm24/HomeBound)
 
 ## 🎓 Education
 
