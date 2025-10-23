@@ -1,13 +1,13 @@
-# 👋 Hi, I’m @ThunderStorm24
+#  Hi, I’m @ThunderStorm24
 
 Welcome to my GitHub profile! Here's a little bit about me:
 
-- 👀 I’m interested in ASG, programming, playing games, create videos
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me? on mail!
+-  I’m interested in ASG, programming, playing games, create videos
+-  I’m currently learning programming
+-  I’m looking to collaborate on everything
+-  How to reach me? on mail!
 
-## 💻 Skills and Technologies
+##  Skills and Technologies
 
 I have experience working with the following technologies:
 
@@ -24,9 +24,9 @@ I have experience working with the following technologies:
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 
-## 🚀 Noteworthy Projects
+## Noteworthy Projects
 
-### 🌐 Portfolio Site
+### Portfolio Site
 **Description:** Personal developer portfolio website  
 **Live Demo:** [Portfolio](https://thunderstorm24.github.io)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/ThunderStorm24.github.io)
@@ -37,7 +37,7 @@ I have experience working with the following technologies:
 
 ---
 
-### 🖥️ MiniDesk
+### MiniDesk
 **Description:** Minimalistic task management web app  
 **Live Demo:** [MiniDesk](https://thunderstorm24.github.io/MiniDesk)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/MiniDesk)
@@ -48,7 +48,7 @@ I have experience working with the following technologies:
 
 ---
 
-### 🍕 Helpfull Pizzeria
+### Helpfull Pizzeria
 **Description:** Voice recognition–based app  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/Helpful_Pizzeria)
 
@@ -60,7 +60,7 @@ I have experience working with the following technologies:
 
 ---
 
-### 🌌 Solar System
+### Solar System
 **Description:** 3D interactive model of the Solar System  
 **Live Demo:** [SolarSystem](https://thunderstorm24.github.io/Solar_System)  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/Solar_System)
@@ -72,24 +72,24 @@ I have experience working with the following technologies:
 
 ---
 
-### 🏠 HomeBound
+### HomeBound
 **Description:** Mobile app that sends a notification when you are near your home  
 **Repository:** [GitHub](https://github.com/ThunderStorm24/HomeBound)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
-## 🎓 Education
+## Education
 
-- 🎓 **Master’s Degree in Computer Science (with distinction)** — University of Silesia in Katowice *(2024–2025)*  
-- 🎓 **Bachelor’s Degree in Computer Science** — University of Silesia in Katowice *(2020–2024)*  
-- 💻 **IT Technician Diploma** — ZSEiI in Sosnowiec *(2016–2020)*
+-  **Master’s Degree in Computer Science (with distinction)** — University of Silesia in Katowice *(2024–2025)*  
+-  **Bachelor’s Degree in Computer Science** — University of Silesia in Katowice *(2020–2024)*  
+-  **IT Technician Diploma** — ZSEiI in Sosnowiec *(2016–2020)*
 
-## 📞 Get in Touch 
+##  Get in Touch 
 
-📧 **patryko5@onet.pl**  
+ **patryko5@onet.pl**  
 
-📧 **lludwiko5@gmail.com**
+ **lludwiko5@gmail.com**
 
 
 I'm always excited to connect with like-minded individuals and collaborate on interesting projects. So, don't hesitate to reach out to me.
