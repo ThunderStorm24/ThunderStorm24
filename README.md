@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 -  I’m interested in ASG, programming, playing games, create videos
 -  I’m currently learning programming
 -  I’m looking to collaborate on everything
--  How to reach me? on mail!
+-  How to reach me? By email! (see [addresses below](#contact) 👇)
 
 ##  Skills and Technologies
 
@@ -85,7 +85,7 @@ I have experience working with the following technologies:
 -  **Bachelor’s Degree in Computer Science** — University of Silesia in Katowice *(2020–2024)*  
 -  **IT Technician Diploma** — ZSEiI in Sosnowiec *(2016–2020)*
 
-##  Get in Touch 
+##  Contact
 
  **patryko5@onet.pl**  
 
