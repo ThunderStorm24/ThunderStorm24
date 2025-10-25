@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 -  I’m interested in ASG, programming, playing games, create videos
 -  I’m currently learning programming
 -  I’m looking to collaborate on everything
--  How to reach me? By email! [addresses below](#contact)!
+-  How to reach me? By email, [addresses below](#contact)!
 
 ##  Skills and Technologies
 
