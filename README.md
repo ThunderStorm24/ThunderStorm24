@@ -81,7 +81,7 @@ I have experience working with the following technologies:
 
 ## Education
 
--  **Master’s Degree in Computer Science (with distinction)** — University of Silesia in Katowice *(2024–2025)*  
+-  **Master’s Degree in Computer Science** — University of Silesia in Katowice *(2024–2025)*  
 -  **Bachelor’s Degree in Computer Science** — University of Silesia in Katowice *(2020–2024)*  
 -  **IT Technician Diploma** — ZSEiI in Sosnowiec *(2016–2020)*
 
