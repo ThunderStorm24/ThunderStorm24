@@ -48,18 +48,6 @@ I have experience working with the following technologies:
 
 ---
 
-### Helpfull Pizzeria
-**Description:** Voice recognition–based app  
-**Repository:** [GitHub](https://github.com/ThunderStorm24/Helpful_Pizzeria)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
 ### Solar System
 **Description:** 3D interactive model of the Solar System  
 **Live Demo:** [SolarSystem](https://thunderstorm24.github.io/Solar_System)  
